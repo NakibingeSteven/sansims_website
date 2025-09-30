@@ -1,0 +1,178 @@
+Based on your Sansims project, here's the corrected 3-page Flask website structure:
+
+PAGE 1: HOME (The Impact Story)
+Hero Section
+Headline: "Programming Education Without Internet. Without New Computers."
+Sub-headline: "A 5,000 UGX Sansim device bringing AI, simulations, and Luganda programming to millions of African students using second-hand smartphones"
+Visual: Minimalist illustration of Sansim device + second-hand phone
+CTA buttons: "See The Solution" | "View Technology"
+
+The Problem (Clean stats)
+85% of Ugandan schools lack computer labs
+New computers cost 1.5M+ UGX - impossible for most schools
+Internet access remains a luxury
+Programming taught theoretically only
+
+The Economic Reality (Side-by-side comparison)
+Traditional Lab: 40M+ UGX (25 computers + infrastructure + internet)
+Sansim Solution: 2.5M UGX (1 Sansim + 30 second-hand phones)
+Savings: 94% cost reduction
+
+Our Mission
+"Democratizing advanced programming education for millions of African students previously excluded by infrastructure and cost limitations. We turn second-hand smartphones into powerful learning computers."
+
+Quick Stats (3 bold numbers)
+5,000 UGX per device
+3+ years content development
+Millions of potential students
+
+Footer Navigation: About | Technology | Contact
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+PAGE 2: THE SOLUTION (What We Built)
+Header: "Three Years of Development. One Complete Solution."
+
+Section 1: The Sansim Device
+ESP32-based offline server
+Creates local WiFi network
+No internet required
+Custom PCB design (December 2024)
+Tested and proven on ESP32 development boards
+
+Section 2: Second-Hand Smartphones = Computers
+Why smartphones? (50,000-150,000 UGX vs 1.5M+ laptops)
+Works with any Android phone
+Students can bring their own devices
+Families already have these phones
+
+Section 3: Three Pillars of Content
+1. AI Educational Apps
+TensorFlow.js in-browser training
+Students train ML models visually
+Learn mathematical functions through AI
+Graphical approach to teaching AI concepts
+Developed in 2023
+
+2. Luganda Programming Language (Sanlag)
+Native language coding environment
+Custom Luganda programming keyboards
+Bloka visual programming in Luganda
+Bloka English version for comparison
+Flask-based implementation
+
+3. Interactive Educational Simulations
+Physics simulations
+Math simulations
+Chemistry simulations
+Inspired by PhET, 100% original code
+2+ years development
+HTML5-based educational tools
+
+How It Works (Simple flow diagram)
+School purchases Sansim device (5,000 UGX)
+Students connect second-hand phones via WiFi
+Access all content offline through browser
+Learn programming, AI, and STEM subjects
+
+Content Development Timeline
+Foundation: Basic server functionality and HTML educational content
+2+ years: Educational simulations development
+2023: AI in browser with TensorFlow.js
+Ongoing: Luganda programming language refinement
+
+Footer Navigation: Home | Technology | Contact
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+PAGE 3: TECHNOLOGY & TRACTION (The Credibility)
+Header: "Proven Technology. Ready to Scale."
+Development Approach: Content-First
+Spent 3+ years perfecting educational content
+Tested on ESP32-CAM development boards
+Content fully stabilized before custom PCB
+Hardware follows content requirements
+
+Why ESP32 Architecture?
+Proven, reliable wireless capabilities
+Sufficient processing power for educational content
+Helps optimize smartphone requirements
+Compatibility between development and production
+Seamless prototype to final product transition
+Minimizes hardware risks
+
+Our Technology Stack
+Sansims Mobile
+Main ESP32-based implementation
+Basic server functionality
+HTML educational content delivery
+Proof of concept on development board
+
+SANSIMS Educational Platform
+Legacy educational simulations version
+2+ years of simulation creation
+Inspired by PhET simulations
+All original code and implementation
+
+Sanlag Programming System
+Python Flask-based solution
+Luganda programming keyboards
+Complete local-language coding environment
+
+Bloka Visual Programming
+Luganda version for native speakers
+English version for comparison
+Block-based programming interface
+
+AI Learning Tools
+TensorFlow.js experimentation platform
+Training simple mathematical models
+Graphical approach to teaching functions through AI
+Developed in 2023
+
+Development Milestones
+✅ 3+ years content development
+✅ Successful ESP32 testing
+✅ Multiple working implementations
+✅ Luganda programming language complete
+✅ AI-in-browser tools functional
+✅ Educational simulations complete
+🔄 Custom Sansim PCB design (December 2024)
+
+Next Steps
+Content refinement and finalization
+Hardware optimization and Sansim PCB design
+Pilot programs in target schools
+Teacher training materials
+Manufacturing and distribution strategy
+
+Impact Potential
+Scalable to millions of students
+Replicable across Uganda and Africa
+Works in zero-infrastructure environments
+Sustainable cost model for schools
+
+About Sanlabs
+
+Primary Developer: Steven Nakibinge
+Mission: Democratizing programming education in Africa
+Approach: Offline-first, locally-relevant, radically affordable
+
+Contact Section
+Email/Phone
+Project information available
+"Request Demo" / "Partner With Us" / "Join Pilot Program"
+
+Footer Navigation: Home | Solution | Technology
+
+/////////////////////////////////////////////////////////////////////////////////////////
+Design Principles Across All Pages:
+Scandinavian minimalism with lots of white space
+Clean sans-serif typography (Inter, Poppins, or Work Sans)
+Single accent color for CTAs/highlights (maybe orange or green)
+Mobile-first responsive design
+Fast loading times
+Consistent navigation header/footer
+Subtle transitions between sections
+Professional photography or clean illustrations
+UGX currency throughout

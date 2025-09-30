@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Sansims{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">Sansims</a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/solution">Solution</a>
+                <a href="/technology">Technology</a>
+            </div>
+        </div>
+    </nav>
+
+    {% block content %}{% endblock %}
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Sanlabs</h3>
+                    <p>Democratizing programming education in Africa</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <a href="/">Home</a>
+                    <a href="/solution">Solution</a>
+                    <a href="/technology">Technology</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p>Primary Developer: Steven Nakibinge</p>
+                    <a href="mailto:contact@sansims.org">contact@sansims.org</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Sanlabs. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
